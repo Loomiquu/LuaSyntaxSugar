@@ -1,0 +1,6 @@
+{
+  "name": "LuaSyntaxSugar",
+  "tree": {
+    "$path": "lib"
+  }
+}
